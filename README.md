@@ -55,6 +55,6 @@ O tempo de uso do aparelho deve ser informado em **horas**. Caso o aparelho seja
 
 ## Tecnologias e recursos
 
-<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/GitHub-Repositório-black?logo=github&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/⚡-Energia-yellow" height="20">
